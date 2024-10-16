@@ -1,9 +1,12 @@
 # apiFrench
 Creating an auto update of notion via email
 
-Purpose: Ultimate French leanring system
+Purpose:  French leanring system
 
-Phase 1:
+Phase 0: 
+ --  Diagrams for UI
+
+Phase 1: STATUS: Nearly finished
 -- Able to enter what you did in the french session and update it to the calendar
 -- Able to create a new DB when button is pressed
  -> UI formm
@@ -17,9 +20,10 @@ Phase 2:
 
 Phase 3:
 --Able to send a notification to user about what they need to study each day 
+ -- Stretch:  Deploy code to AWS 
 
 Phase 4:
---Add a habit tracker to show them their progress each day for speaking, listening , reading writing
+--Add a habit tracker to show them their progress each day for speaking, listening , reading writing. 
 
 Phase 5:
 --Ask the user for their current French level and give them a plan on what to study
