@@ -6,7 +6,7 @@ Purpose:  French leanring system
 Phase 0: 
  --  Diagrams for UI
 
-Phase 1: STATUS: Nearly finished
+Phase 1: 
 -- Able to enter what you did in the french session and update it to the calendar
 -- Able to create a new DB when button is pressed
  -> UI formm
